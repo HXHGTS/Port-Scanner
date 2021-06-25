@@ -3,6 +3,6 @@
 
 配合vps使用，检测特定端口通断
 
-[tcping下载地址](https://lanzous.com/iaf596f)
+[tcping下载地址](https://wwi.lanzoui.com/iaf596f)
 
-[端口扫描脚本下载地址](https://lanzous.com/icm4tmj)
+[端口扫描脚本下载地址](https://wwi.lanzoui.com/icm4tmj)
